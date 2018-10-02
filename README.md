@@ -1,2 +1,2 @@
 # Practice-Repository
-This is just a practice repository.
+This is just a practice repository. :)
